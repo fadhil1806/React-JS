@@ -29,7 +29,7 @@ function MyApp() {
     </>
   );
 }
-
+```
 # 2. Selalu tutup semua tag
 
 # 3. Gunakan camelcase untuk atribut
