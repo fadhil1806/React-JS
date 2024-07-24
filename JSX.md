@@ -1,8 +1,6 @@
 # Aturan JSX
 
 ## 1. Selalu mengembalikan satu elemen
-
-### Code
 ```jsx
 function MyApp() {
   return (
