@@ -1,5 +1,3 @@
-# Create the README.md file with the specified content
-readme_content = """
 # Aturan JSX
 
 ## 1. Selalu mengembalikan satu elemen
@@ -31,3 +29,10 @@ function MyApp() {
     </>
   );
 }
+
+# 2. Selalu tutup semua tag
+
+# 3. Gunakan camelcase untuk atribut
+```jsx
+<button onClick={e => alert('ok')}>Semangat!</button>
+
